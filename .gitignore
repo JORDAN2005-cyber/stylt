@@ -1,0 +1,8 @@
+.env
+config/database.php
+
+storage/logs/*
+storage/cache/*
+
+public/assets/uploads/professionals/*
+public/assets/uploads/*
